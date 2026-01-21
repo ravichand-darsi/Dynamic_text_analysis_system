@@ -84,3 +84,5 @@ Quick host-specific notes:
 If you prefer manual deploys, run `npm run build` locally and upload the `dist/` folder to your static host.
 
 If you'd like, I can also add a Netlify `_redirects` file or a Vercel configuration—tell me which host you plan to use.
+
+Updated by Ravi-Chand
