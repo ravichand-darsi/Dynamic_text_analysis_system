@@ -1,7 +1,8 @@
 {
-  "name": "TextDynAI Pro - Advanced Text Analytics",
-  "description": "A professional-grade AI text analysis platform featuring real-time sentiment, emotion, and topic modeling with deep architectural insights.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+    "name":  "TextDynAI Pro - Advanced Text Analytics",
+    "description":  "A professional-grade AI text analysis platform featuring real-time sentiment, emotion, and topic modeling with deep architectural insights.",
+    "requestFramePermissions":  [
+                                    "microphone"
+                                ],
+    "_updatedBy":  "Ravi-Chand"
 }
